@@ -1,0 +1,3 @@
+/Users/allentang/Desktop/进行中/2022-spring-algorithm/POJ1852-ants/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allentang/Desktop/进行中/2022-spring-algorithm/POJ1852-ants/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allentang/Desktop/进行中/2022-spring-algorithm/POJ1852-ants/cmake-build-debug/CMakeFiles/POJ1852_ants.dir
